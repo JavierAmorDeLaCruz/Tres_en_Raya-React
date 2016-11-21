@@ -1,0 +1,9 @@
+.game {
+	float: left;
+}
+
+.logo{
+	float: left;
+	width: 100px;
+	margin-left: 50px;
+}

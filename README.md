@@ -1,2 +1,3 @@
-# Tres_en_Raya-React
-Juego del 3 en raya usando React Native
+# Tres en raya
+
+Juego de Tres en raya en jsx para IWEB
